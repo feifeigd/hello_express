@@ -1,0 +1,11 @@
+{
+	"name": "hello"
+	,"description": "hello"
+	,"license": "MIT"
+	,"dependencies": {
+		"express": ""
+		,"fibers": ""
+		,"request": ""
+		,"redis-url": ""
+	}
+}
